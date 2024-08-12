@@ -1,0 +1,16 @@
+export const images = {
+  "Partly cloudy": require("../assets/weathers/partlycloudy.png"),
+  "Sunny": require("../assets/weathers/sunny.png"),
+  "Clear ": require("../assets/weathers/sun.png"),
+  "Moderate rain": require("../assets/weathers/rain.png"),
+  "Patchy rain nearby": require("../assets/weathers/rain.png"),
+  "Light rain": require("../assets/weathers/rain.png"),
+  "Moderate rain at times": require("../assets/weathers/rain.png"),
+  "Cloudy": require("../assets/weathers/cloudy.png"),
+  "Overcast": require("../assets/weathers/cloudy.png"),
+  "Heavy rain": require("../assets/weathers/rain.png"),
+  "Heavy rain at times": require("../assets/weathers/rain.png"),
+  "Moderate or heavy rain with thunder": require("../assets/weathers/thunder.png"),
+  "Moderate or heavy freezing rain": require("../assets/weathers/rain.png"),
+  "other": require("../assets/weathers/cloudy.png"),
+};
